@@ -9,13 +9,16 @@ DARK BLUE: #1D3557
 */
 
 body {
-    margin: 0px;
+    margin: 0;
     text-align: center;
 }
 
 #hero {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/63/Night_view_of_Meskel_Square.jpg");
-    margin: 0px 0px 50px;>
+    background-image: url("https://img.freepik.com/premium-vector/addis-ababa-ethiopia-city-skyline-white-background-flat-vector-illustration-business-travel-tourism-concept-with-modern-buildings-image-banner-website_596401-140.jpg");
+    background-size: cover;
+    margin: 0px;
+    height: 400px;
+    color: white;
 }
 
 div h1, div h2, #guide, #avater {
@@ -25,7 +28,7 @@ div h1, div h2, #guide, #avater {
 
 div h1 {
     width: 250px;
-    margin: 120px auto 20px;
+    margin: 110px auto 20px;
     background: #00a0ff;
     font-size: 24px;
 }
@@ -76,5 +79,5 @@ div h2 {
 
 #avater {
     width: 100px;
-    margin: 50px 10px;
+    margin: 50px 20px;
 }
