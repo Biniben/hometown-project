@@ -1,4 +1,4 @@
-# https://biniben.github.io/Hometown-project-Addis/
+# https://biniben.github.io/Scrimba-Hometown-Project-Addis/
 
 ## About Scrimba
 
